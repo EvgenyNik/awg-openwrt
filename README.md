@@ -1,4 +1,7 @@
 ![Downloads](https://img.shields.io/github/downloads/Slava-Shchipunov/awg-openwrt/total)
+Собирал
+v23.05.5 - aarch64_generic :: rockchip/armv8
+woekflow было запущено с параметрами: тег 23.05.5 таргет rockchip подтаргет armv8
 
 # Пакеты amneziawg для роутеров с прошивкой OpenWRT
 
